@@ -20,30 +20,16 @@ package com.rigid.birthdroid;
 import android.app.ListActivity;
 import android.content.Context;
 import android.content.Intent;
-import android.content.res.Resources;
-import android.graphics.Typeface;
 import android.os.Bundle;
-import android.support.v7.app.ActionBar;
 import android.util.Log;
-import android.util.TypedValue;
-import android.view.Menu;
-import android.view.MenuInflater;
-import android.view.MenuItem;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
+import android.view.*;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
-import android.widget.ArrayAdapter;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
-import android.widget.LinearLayout;
 import android.widget.TextView;
-import android.view.ViewGroup.LayoutParams;
 
-import java.text.DateFormat;
 import java.text.SimpleDateFormat;
-import java.util.List;
 
 
 

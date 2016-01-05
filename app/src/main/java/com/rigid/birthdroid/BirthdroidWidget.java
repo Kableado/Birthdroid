@@ -29,7 +29,6 @@ import android.content.res.Resources;
 import android.os.IBinder;
 import android.util.Log;
 import android.widget.RemoteViews;
-import android.widget.TextView;
 
 import java.util.Calendar;
 import java.util.GregorianCalendar;

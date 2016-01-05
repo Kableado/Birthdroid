@@ -17,14 +17,13 @@
  */
 package com.rigid.birthdroid;
 
-import android.appwidget.AppWidgetManager;
 import android.content.Intent;
+import android.os.Bundle;
+import android.preference.PreferenceActivity;
+
 //import android.content.SharedPreferences;
 //import android.preference.Preference;
-import android.preference.PreferenceActivity;
 //import android.preference.Preference.OnPreferenceClickListener;
-import android.os.Bundle;
-import android.util.Log;
 
 
 

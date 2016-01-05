@@ -18,29 +18,20 @@
 package com.rigid.birthdroid;
 
 import android.content.ContentResolver;
-import android.content.ContentUris;
 import android.content.Context;
 import android.content.Intent;
 import android.content.res.Resources;
 import android.database.Cursor;
 import android.graphics.Bitmap;
-import android.graphics.BitmapFactory;
 import android.net.Uri;
 import android.provider.ContactsContract;
 import android.provider.ContactsContract.CommonDataKinds.Event;
 import android.provider.ContactsContract.Data;
 import android.util.Log;
-import java.io.InputStream;
-import java.text.SimpleDateFormat;
+
 import java.text.ParseException;
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.Collections;
-import java.util.Comparator;
-import java.util.Date;
-import java.util.GregorianCalendar;
-import java.util.Locale;
-import java.util.List;
+import java.text.SimpleDateFormat;
+import java.util.*;
 
 
 
